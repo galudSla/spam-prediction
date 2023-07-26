@@ -1,4 +1,4 @@
-# Spam Email Detection Project
+# Spam Email Detection
 
 Spam Email Detection is a project focused on building an effective machine learning model that can discern between spam and non-spam (ham) emails. This model leverages Natural Language Processing (NLP) techniques and utilizes Support Vector Machines (SVM) to achieve its goal. By representing email texts using the TF-IDF (Term Frequency-Inverse Document Frequency) technique, the SVM classifier can make accurate predictions based on vectorized features.
 
